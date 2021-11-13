@@ -1,4 +1,5 @@
 # Reformer
+CS 395T Deep Learning Seminar @ UT Austin Fall '21
 
 ## Model Architecture & Hyperparams
 * 6-layer  
